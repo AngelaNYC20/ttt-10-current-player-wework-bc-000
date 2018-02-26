@@ -18,7 +18,7 @@ def current_player(board)
     end
 # If the turn count is an even number, the #current_player method should return "X", otherwise, it should return "O".
   
-  if turn_count % 2 = 0 
+  gets turn_count % 2 = 0 
 end 
   
 
