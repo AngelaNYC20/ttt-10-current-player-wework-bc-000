@@ -12,6 +12,7 @@ def current_player(board)
   turn_count = gets =~ "X" ? turn_count % 2 == 0 : "O"
   end 
 end 
+end 
   
 
 
