@@ -16,9 +16,10 @@ def current_player(board)
       if position == "X" || position == "O"
       count += 1
     end
-     gets =~ "X" ? turn_count % 2 == 0 : "O"
+    count 
+  end
+    gets =~ "X" ? turn_count % 2 == 0 : "O"
   end 
- end 
 end 
   
 
