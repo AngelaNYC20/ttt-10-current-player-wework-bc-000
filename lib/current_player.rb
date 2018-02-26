@@ -8,5 +8,6 @@ end
 count 
 end 
   
+def current_player(board)
   
 
