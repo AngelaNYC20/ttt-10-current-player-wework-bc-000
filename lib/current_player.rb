@@ -9,6 +9,7 @@ count
 end 
   
 def current_player(board)
+  
   def turn_count(board)
     count = 0 
     board.each do |position|
